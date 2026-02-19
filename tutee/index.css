@@ -1,0 +1,1344 @@
+
+/* ......................Home page start .....................*/
+.navbar h1 span{
+    font-size: 32px;
+    font-weight: 600px;
+    text-transform: capitalize;
+}
+.navbar .navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+}
+.nav-item a{
+    font-size: 20px;
+}
+.nav-item a:hover{
+    color: #05dfd7 !important;
+
+}
+
+
+.abc a{
+    background-color: #fa26a0;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #fff !important;
+    transition: 0.3s ease-in;
+    line-height: 28px;
+    font-size: 18px;
+    /* color: #fff; */
+}
+
+.abc a:hover{
+    background-color: #05dfd7;
+color: white !important;
+}
+
+.navbar .navbar-nav{
+    gap: 10px;
+}
+.opictal h3{
+        color:black;
+    font-size: 30px;
+    text-shadow: 2px 3px 4px black;
+}
+.opictal p{
+    font-size: 25px;
+}
+
+/*................. You Can learn anything start........................ */
+
+
+.app h3{
+        font-size: 35px;
+    font-weight: bolder;
+}
+.app p{
+    color: #999396;
+    font-size: 18px;
+    line-height: 28px;
+}
+.icon1 span{
+    color: #fa26a0;
+    font-size: 30px;
+}
+.icon1 {
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 25px 98px 0 rgba(0, 0, 0, 0.08);
+    height: 250px;
+    width: 100%;
+    border: 2px solid red none;
+    /* transition:.3s; */
+}
+.icon1 h2{
+    color: black;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    display:inline-block;
+}
+.icon1 h2:hover{
+        color: #05dfd7;
+
+}
+.icon1 p{
+    color: #8d888b;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.img-box{
+    height: 400px;
+    width: 100%;
+    background-size: cover !important;
+    /* border: 1px solid red; */
+    position: relative;
+    overflow: hidden;
+
+}
+.anything_hover {
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.074);
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    transform: skewY(30deg);
+    top: -150%;
+    transition: 1s;
+}
+.img-box:hover .anything_hover{
+top: 150%;
+}
+.image9{
+    background:linear-gradient(#00000095, #00000095), url(img/blog1.jpg );
+}
+.image1{
+    background:linear-gradient(#00000095, #00000095), url(https://p.w3layouts.com/demos_new/template_demo/06-09-2020/tutee-liberty-demo_Free/448738053/web/assets/images/b7.jpg);
+}
+.image2{
+  background-image:linear-gradient(#00000095, #00000095), url(https://p.w3layouts.com/demos_new/template_demo/06-09-2020/tutee-liberty-demo_Free/448738053/web/assets/images/b6.jpg);
+}
+.image3{
+    background-image:linear-gradient(#00000095, #00000095), url(https://p.w3layouts.com/demos_new/template_demo/06-09-2020/tutee-liberty-demo_Free/448738053/web/assets/images/b2.jpg);
+}
+.img-box  h2{
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px !important;
+
+    
+}
+/* .image1 h2{
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px !important;
+}
+.image2 h2{
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px !important;
+}
+.image3 h2{
+    color: white;
+    padding-top: 50px;
+    padding-left: 20px !important;
+} */
+/* .img1 p{
+    color: white;
+    padding-top: 190px;
+    margin-right: 65px;
+
+} */
+.text  {
+    text-align: end !important;
+    color: white;
+    margin-top: 230px;
+    padding-right: 55px;
+}
+/*................. You Can learn anything End........................ */
+
+/* <!--........ Para topic start .............--> */
+
+.para h2{
+    font-weight: 700;
+    font-size: 35px;
+}
+.para p{
+    color: gray;
+    font-size: bold;
+}
+.college img{
+    height: 300px;
+    width: 100%;
+    /* border-radius: 30px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* border-top-left-radius: 0px; */
+}
+.college {
+    background-color:#f6f6f6;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.college h5{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 25px;
+    list-style: none !important;
+}
+
+.college a{
+    color:black;
+    font-size: 20px !important;
+    list-style: none;
+}
+.college a:hover{
+    color: #05dfd7;
+    list-style: none !important;
+}
+.pos-date span{
+    font-size: 18px;
+    color:gray;
+        margin-left: 25px;
+
+}
+.para p{
+    color: #777;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 25px;
+    
+}
+.ddd h6{
+    color: #777;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.ddd h3{
+    /* font-weight: bolder; */
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+
+}
+.ddd p{
+    font-size: 16px;
+    color:#777;
+    line-height: 20px;
+}
+.ppp img{
+    border-radius: 20px;
+}
+
+.xyz{
+    background-color:#fa26a0 ;
+    color: white;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+    border: none;
+    height: 55px;
+    width: 137px;
+    border-radius: 5px;
+}
+.xyz:hover{
+        background-color: aqua;
+}
+/* <!--........ Para topic end .............--> */
+
+
+/* <!--..... Learning Part Start ......--> */
+
+/* .abc {
+    border: 2px solid red none;
+    height: 450px;
+} */
+
+.testimonial-slider .carousel-item {
+    height: 500px;
+    width: 100%;
+    border: 2px solid red none;
+}
+.testimonial-slider .carousel-caption img {
+    border-radius: 50%;
+    height: 100px;
+    /* width: 30%; */
+}
+.testimonial-slider .carousel-caption p, h1, h3 {
+    color: black;
+}
+
+.testimonial-slider .carousel-indicators li {
+    background-color: grey;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+ .testimonial-slider .carousel-indicators .active li {
+    /* background-color: #fa26a0; */
+    position: relative;
+    /* cursor: pointer; */
+    border-radius: 15%;
+    border: 2px solid #999;
+    background: #999;
+}
+.testimonial-slider .carousel-indicators  li:hover {
+    background-color: #fa26a0;
+}
+
+
+
+.testimonial-slider .carousel-caption h1{
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.testimonial-slider .carousel-caption p{
+    color:#777;
+    font-size: 16px;
+}
+.testimonial-slider .carousel-caption h3{
+    font-size: 17px;
+    line-height: 27px;
+    color: black;
+}
+
+/* <!--..... Learning Part End ......--> */
+
+/* <!-- .....Footer Part Start...... --> */
+
+.footer{
+    background-color: black;
+    height: auto;
+    width: 100%;
+}
+.foot h2{
+    color: white;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 600;
+}
+.foot p{
+    color: rgb(170, 170, 170);
+
+}
+
+.foot_news h2{
+    color:white;
+    line-height: 25px;
+    list-style: none;
+}
+.foot_news ul  li a{
+    color: rgb(170, 170, 170);
+    list-style: none !important;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+.foot_news ul  li a:hover{
+    color: white;
+}
+
+
+.false h5{
+    color: rgb(170, 170, 170);
+}
+.foot_contact h2{
+    color: white;
+}
+.foot_contact ul li span{
+    color: rgb(170, 170, 170);
+
+}
+.foo5 a{
+    color: #8d888b;
+    text-decoration: none;
+}
+.foot6 a{
+    color: #8d888b;
+    text-decoration: none;
+}
+.foot6 a:hover{
+    color: white;
+}
+.useful h2{
+    color: white;
+    line-height: 30px;
+}
+.useful li {
+    line-height: 30px;
+}
+.useful li a{
+        color: rgb(170, 170, 170);
+            text-decoration: none;
+}
+.useful li a:hover{
+    color: white;
+}
+.foo5 span{
+    color: #ccc;
+}
+
+.foo5 span:hover{
+    color: white;
+}
+
+/* ............footer Part End................. */
+
+/* ......................About page Start .....................*/
+
+/* ......................breadcrumb start .....................*/
+.abcd{
+    font-size: 20px;
+    line-height: 45px;
+    font-weight: 600;
+    /* display: flex; */
+    height: 50px;
+    width: 100% !important;
+    border:2px solid red none;
+
+}
+.abcd ul li{
+    padding-left: 15px;
+}
+.abcd ul li a:hover{
+    color: #fa26a0;
+}
+/* ......................breadcrumb End .....................*/
+
+
+  /* <!--.... Discover the true significance of knowledge  part start..... --> */
+.knowledge img{
+    border-radius: 5%;
+}
+.part h2{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.part p{
+    line-height: 25px;
+    color:#777;
+    font-size: 18px;
+}
+ /* <!--.... Discover the true significance of knowledge  part end..... --> */
+
+
+      /* <!--...... image Part Start...... --> */
+.discount{
+    /* background-image: url(2.jpg); */
+    background:linear-gradient(#00000095, #00000095), url(https://p.w3layouts.com/demos_new/template_demo/06-09-2020/tutee-liberty-demo_Free/448738053/web/assets/images/2.jpg);
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid red none;
+}
+
+/* .discount span{
+    background-color: #fa26a0;
+    color: white;
+}
+.discount h3{
+    color: white;
+    font-weight: bolder;
+    text-transform: capitalize;
+} */
+.discount span{
+    background-color: #fa26a0;
+    color: white;
+    font-size: 25px;
+   height: 42px;
+    width: 47px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.discount h3{
+    color: white;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 700;
+}
+.discount p{
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Roboto', sans-serif;
+    color: #ddd;
+    line-height: 30px;
+}
+.doing{
+    padding: 4%;
+}
+
+.doing h3{
+    color: black;
+    line-height: 45px;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.doing p{
+    font-size: 19px;
+    line-height: 26px;
+    color: #777;
+    
+}
+.progress{
+    height: .3rem !important;
+
+}
+.progress-bar{
+    background-color: #fa26a0;
+    width: 50%;
+}
+.progress-bar{
+    width: 80%;
+    height: .3rem !important;
+}
+.bars h4 span{
+    float: right;
+}
+.img5 .img{
+    height: 400px;
+    width: 100%;
+}
+.right img{
+    border-radius: 10px;
+    max-width: 100%;
+}
+.bars h4{
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+
+}
+.card h4{
+    color:black;
+    font-size: 25px;
+    line-height: 35px;
+    font-size: 600;
+    text-align: center;
+}
+.card p{
+    display: block;
+    font-size: 15px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.card img{
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+.card{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red none;
+
+}
+        /* .image{
+            height: 300px;
+            width: 100%;
+            background-color: lightblue;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        } */
+.overlay {
+    display: flex;
+   align-items: center;
+            justify-content: space-evenly;
+            border: 2px solid gray none ;
+            width: 100% !important;
+            font-size: 25px;
+}
+        .hello-text{
+            position: absolute;
+            top: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+            .hello img {
+            width: 50%;
+            margin: auto;
+            display: block;
+            border-radius: 50%;
+            margin-top: 40px;
+            transition: 0.8s;
+
+         
+        }
+
+                .overlay{
+            position: absolute;
+            /* top: 0; */
+            bottom: 0px;
+            height: 0;
+            width: 100%;
+            background-color:#fa26a0;
+
+            opacity: 0;
+            transition: 0.5s;   
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            /* z-index: 1; */
+        }
+
+                .image:hover .overlay{
+            height: 10%;
+            opacity: 1;
+        }
+        .hov{
+            height: 0;
+            background-color: lightcoral;
+            width: 100%;
+            /* border-radius: 50%; */
+            border-bottom-left-radius:50%;
+            border-bottom-right-radius: 50%;
+            position: absolute;
+            top: 0;
+    transform: scale(1.1);
+    opacity: 0;
+    transition: 0.5s;
+
+        }
+
+                .image:hover .hov{
+            height: 35%;
+            opacity: 1;
+        }
+
+             .image:hover   .image-text img {
+   border: 10px solid white;
+            outline: 10px solid lightcoral; 
+        }
+
+/* overlay try start */
+ .image{
+            height: 300px;
+            width: 100%;
+            background-color:#ddd;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .image-text{
+            position: absolute;
+            top: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .image img {
+            width: 50%;
+            margin: auto;
+            display: block;
+            border-radius: 50%;
+            margin-top: 40px;
+            transition: 0.8s;
+
+         
+        }
+        .overlay{
+            position: absolute;
+            /* top: 0; */
+            bottom: 0px;
+            height: 0;
+            width: 100%;
+            background-color: #e83e8c;
+
+            opacity: 0;
+            transition: 0.5s;   
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            /* z-index: 1; */
+        }
+        .image:hover .overlay{
+            height: 10%;
+            opacity: 1;
+        }
+        .hov{
+            height: 0;
+            background-color:#e83e8c;
+            width: 100%;
+            /* border-radius: 50%; */
+            border-bottom-left-radius:50%;
+            border-bottom-right-radius: 50%;
+            position: absolute;
+            top: 0;
+    transform: scale(1.1);
+    opacity: 0;
+    transition: 0.5s;
+
+        }
+        .image:hover .hov{
+            height: 35%;
+            opacity: 1;
+        }
+
+     .image:hover   .image-text img {
+   border: 10px solid white;
+            outline: 10px solid #e83e8c; 
+        }
+
+.image-text h1{
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 600;
+    
+}
+.image-text h3{
+    font-size: 15px;
+    color:black;
+    display: block;
+        font-family: 'Roboto', sans-serif;
+}
+.overlay i{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    display: block;
+}
+/* <!--...... image Part end...... --> */
+
+
+/*................ About page end ............................................. */
+
+/* .    <!--......... second topic start........ --> */
+.def h6{
+    color:#999;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.def h3{
+    color: black;
+    line-height: 45px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+/* .    <!--......... second topic end........ --> */
+
+    /* <!--........... third part start.......... --> */
+.skill h6{
+        color:#999;
+}
+.skill h3{
+    color: black;
+    line-height: 45px;
+    font-size: 35px;
+    text-transform: capitalize;
+ font-weight: bolder;
+}
+.skill p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #777;
+}
+    /* <!--........... third part end.......... --> */
+
+
+.public h3{
+    color:black;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.public h3:hover{
+    color: #05dfd7;
+}
+.public span{
+    font-size: 16px;
+    line-height: 23px;
+    color: #777;
+}
+.public p{
+    color:#777;
+    line-height: 26px;
+    font-size: 16px;
+}
+
+                   /* <!--.......... <starting search bar.......... --> */
+
+.search{
+    background-color:#ddd;
+    color: white;
+    height: auto;
+    padding-bottom: 20px;
+    width: 100%;
+    border-radius: 10px;
+}
+.search h2{
+    font-size: 25px;
+    color: black;
+    margin-bottom: 25px;
+}
+
+.search-form {
+    height: 45px;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+.search-form input{
+   height: 100%;
+   /* width:85% !important; */
+   background: none !important;
+   border: none;
+   box-shadow: none !important;
+   outline: none !important;
+  
+}
+.search button{
+    height: 100%;
+}
+                   /* <!--.......... end search bar.......... --> */
+
+
+.posts h5 {
+    color: black;
+    font-size: 25px;
+    
+}
+                 /* <!--....... starting  recent posts...... --> */
+
+.clock h6{
+    color: #777;    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+}
+.clock h6:hover{
+    color: #05dfd7;
+}
+.clock span{
+    color: #8d888b;
+    font-size: 13px;
+    margin-top: 4px;
+    display: inline-block;  
+}
+.clock1 img{
+    border-radius: 10%;
+    /* height: 85px; */
+    display: block;
+    width: 100%;
+    height: auto;
+}
+        /* <!--....... end recent posts...... --> */
+
+.Gallery img {
+    width: 100%;
+}
+
+        /* .......search bar start......... */
+        .search1{
+               background-color: #f3f3f3;
+
+            border-radius: 10px;
+        }
+        .search1  form{
+           height: 45px;
+        }
+        .search1 form input, button{
+         
+            outline: none;
+            height: 100%;
+            box-shadow: none !important;
+        }
+        .search1 form input{
+            background-color: transparent;
+            border: none;
+            width: 80%;
+        }
+        .search1 form button{
+            width: 20%;
+            color: pink;
+        }
+
+ /*........... search bar end.......... */
+
+.post1 h1{
+    color: black;
+    font-size: 25px;
+
+}
+.post3 h6{
+        color: #8d888b;
+}
+.post3 h6:hover{
+    color: #05dfd7;
+}
+.post3 i{
+    color:#8d888b;
+    font-size: 13px;
+}
+
+.image6 img{
+    border-radius: 20%;
+    height: 80px;
+    width: 100%;
+}
+.class {
+    border-radius: 100% ;
+}
+.gallery img{
+    border-radius: 10px;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 20px;
+}
+.Categories h2{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.Categories1 h5{
+    color: #777;
+    font-size: 16px;
+    line-height: 25px;
+}
+.Categories1 h5:hover{
+    color: #05dfd7;
+}
+.search2 img{
+    height: 100%;
+    width: 100%;
+}
+
+.Previous h2{
+    color:#777;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+    /* <!--...... Learning  the importance of right part  start ......... --> */
+
+.adverisement2 img{
+    height: 500px;
+    width: 100%;
+    border-radius: 10px;
+}
+.adverisement2 h4{
+    color: black;
+    font-size: 25px;
+    line-height: 35px;
+    display: block;
+}
+.adverisement2 p{
+    color: #777;
+    line-height: 26px;
+    font-size: 16px;
+}
+.adverisement3 img{
+    height: 250px;
+    width: 100%;
+    border-radius: 10px;
+}
+.summary h2{
+    color: black;
+    font-size: 25px;
+}
+.summary p{
+    font-size: 16px;
+    color: #777;
+    line-height: 26px;
+}
+.summary2 p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #636363;
+}
+/* .summary4 {
+    width: 100%;
+    
+} */
+
+.summary4 h6{
+    color: black;
+    font-size: 18px;
+}
+.summary2  a span{
+    color: #999396;
+}
+.summary2  a span:hover{
+    color: #05dfd7;
+}
+
+.image10 img{
+    height: 40%;
+    width: 15%;
+}
+
+
+    /* <!--...... Learning  the importance of right part  end ......... --> */
+
+        /* <!--...... Present Education   in beautiful way part start...... --> */
+
+    *{
+        margin: 0;
+        padding: 0 ;
+    }
+
+.Education3 {
+    height: 600px;
+
+    background-size: cover;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://p.w3layouts.com/demos_new/template_demo/06-09-2020/tutee-liberty-demo_Free/448738053/web/assets/images/1.jpg")
+}
+
+.Education3 h2{
+    color: white;
+    font-size: 55px;
+    line-height: 55px;
+    font-weight: 700;
+}
+.Education3 p{
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+}
+        /* <!--...... Present Education   in beautiful way part end...... --> */
+
+         /* <!--............ about part start.............. --> */
+
+.about2 h3{
+      color: black;
+      font-size: 35px;
+      line-height: 45px;
+      font-weight: 700;
+}
+.about2 p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #777;
+}
+ /* <!--............ about part end.............. --> */
+
+
+  /* <!--........... best part start ............--> */
+.photo h3{
+    color: black;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+}
+.photo p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #777;
+}
+  /* <!--........... best part end ............--> */
+
+  /* <!--............... awesome part start ...........--> */
+
+.awesome h2{
+        color: black;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+}
+
+.awesome p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #777;
+}
+/* <!--............... awesome part end ...........--> */
+
+            /* <!--........... Latest Blog part start ...........--> */
+
+.blog h2{
+    color: black;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+}
+
+.blog p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #777;
+}
+.project2 h1{
+    color: black;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 700;
+}
+.pos-date1 span{
+    color:#777;
+    font-size: 13px;
+    line-height: 23px;
+}
+ /* <!--........... Latest Blog part end ...........--> */
+
+ /* <!--............... Get in touch part start.............. --> */
+.address1 h2{
+    color: black;
+    font-size: 33px;
+    line-height: 45px;
+    font-weight: 700;
+}
+.address1 p{
+    color: #777;
+    line-height: 26px;
+    font-size: 16px;
+}
+
+.address1 h3{
+    color: black;
+    font-size: 18px;
+    line-height: 25px;
+}
+.from input{
+    height: 55px;
+    width: 700px;
+    border: 1px solid !important;
+    outline: 6px  !important;
+    font-size: 16px;
+    color: #777;
+    background: transparent;
+    border: 1px solid #777;
+}
+/* <!--............... Get in touch part end.............. --> */
+
+/*......... map part start............. */
+.map iframe{
+    width: 100%;
+    height: 400px;
+}
+/*......... map part end............. */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    background: #1f1f1f;
+    color: #ccc;
+    padding: 50px 20px 20px;
+}
+
+.footer-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.footer-box h3 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.footer-box p,
+.footer-box li {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.footer-box ul {
+    list-style: none;
+}
+
+.footer-box ul li span {
+    color: #888;
+    font-size: 13px;
+}
+
+.footer-box ul li {
+    margin-bottom: 15px;
+}
+
+.footer-box ul li a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.footer-box ul li a:hover {
+    color: #00bcd4;
+}
+
+/* Social Icons */
+.social-icons a {
+    display: inline-block;
+    margin-right: 8px;
+    width: 35px;
+    height: 35px;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 4px;
+}
+
+.social-icons a:hover {
+    background: #00bcd4;
+}
+
+/* Footer Bottom */
+.footer-bottom {
+    border-top: 1px solid #333;
+    margin-top: 30px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-bottom p {
+    font-size: 14px;
+}
+
+.footer-links a {
+    color: #ccc;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: white;
+}
+
+
+
+/* 📱 Responsive */
+@media (max-width: 992px) {
+    .footer-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .footer-container {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-bottom {
+        text-align: center;
+        gap: 10px;
+    }
+
+    .footer-links a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:767px){
+/* ......................Home page start .....................*/
+
+    .banner-section .banner{
+    height: auto;
+    padding-bottom: 20px;
+}
+.icon1{
+    margin-top: 20px;
+    width: 100%;
+}
+.app p{
+    text-align: center;
+    font-size: 15px;
+}
+.app h3 {
+    font-size: 30px !important;
+    text-align: center;
+}
+.abc a{
+    padding-left: 1px !important;
+    width: 30% !important;
+    text-align: center;
+}
+.college{
+    margin-bottom: 20px;
+}
+/* ......................Home page End .....................*/
+/* ..........................About page start */
+
+.part h2{
+    font-size: 29px;
+
+}
+
+}
+/* ..........................About page end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation: portrait){
+/* ......................Home page start .....................*/
+  
+    .abc a{
+    width: 15% !important;
+    text-align: center;
+    }
+/* ......................Home page End .....................*/
+
+/* ..........................About page start */
+
+.part h2{
+    font-size: 31px;
+
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation: landscape){
+.knowledge{
+    padding-left: 0;
+}
+
+}
+
+
